@@ -8,7 +8,7 @@ sudo apt -y install xserver-xorg-input-evdev
 
 sudo git clone https://github.com/waveshare/LCD-show
 
-sudo cd LCD-show
+cd LCD-show
 
 sudo cp waveshare35b-v2-overlay.dtb /boot/overlays/
 
